@@ -5,6 +5,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 
 ## Veri Girişi
 - https://www.depremyardim.com/
+- https://destekbilgi.com
 
 ## Afet Harita Projesi
 
